@@ -5,7 +5,7 @@ public class Dice{
 
     public void Dice(){
 	play();
-	    }
+    }
 
     public int getValue(){
 	return value;
